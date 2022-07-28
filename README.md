@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luyue124
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning openstack k8s  algorithm premthus....
-- 💞️ I’m looking to collaborate on    anything interesting  
+- 💞️ I’m looking to collaborate on    anything that's interesting  
 - 📫 How to reach me  1009831845@qq.com
 
 <!---
